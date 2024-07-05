@@ -1,0 +1,17 @@
+﻿<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="CalculatorGame.ScoreItem">
+    <Grid Width="480" RowDefinitions="Auto" ColumnDefinitions="170, 50, 50, 50, 80, 50">
+        <Border Grid.Column="0" Margin="0 0 0 0" Background="#1f6aa5" CornerRadius="0 20 20 0">
+            <TextBlock VerticalAlignment="Center" HorizontalAlignment="Left" Name="Percentage" 
+                       Margin="10 0 0 0">100%</TextBlock>
+        </Border>
+        <TextBlock Grid.Column="1" VerticalAlignment="Center" Name="AmountCa" Margin="10 0 0 0">10</TextBlock>
+        <TextBlock Grid.Column="2" VerticalAlignment="Center" Name="MeanTime" Margin="10 0 0 0">12.6s</TextBlock>
+        <TextBlock Grid.Column="3" VerticalAlignment="Center" Name="Amount" Margin="10 0 0 0">100</TextBlock>
+        <TextBlock Grid.Column="4" VerticalAlignment="Center" Name="Date" Margin="10 0 0 0">19/10/2006</TextBlock>
+        <TextBlock Grid.Column="5" VerticalAlignment="Center" TextWrapping="NoWrap"
+                   Name="Time"
+                   Margin="10 0 0 0" Padding="0 0 10 0">300s</TextBlock>
+    </Grid>
+</UserControl>

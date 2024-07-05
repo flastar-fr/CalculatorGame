@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="CalculatorGame/App.axaml" value="CalculatorGame/CalculatorGame.csproj" />
+        <entry key="CalculatorGame/FirstView.axaml" value="CalculatorGame/CalculatorGame.csproj" />
+        <entry key="CalculatorGame/GameWindow.axaml" value="CalculatorGame/CalculatorGame.csproj" />
+        <entry key="CalculatorGame/MainWindow.axaml" value="CalculatorGame/CalculatorGame.csproj" />
+        <entry key="CalculatorGame/MenuItem.axaml" value="CalculatorGame/CalculatorGame.csproj" />
+        <entry key="CalculatorGame/MenuWindow.axaml" value="CalculatorGame/CalculatorGame.csproj" />
+        <entry key="CalculatorGame/ScoreItem.axaml" value="CalculatorGame/CalculatorGame.csproj" />
+        <entry key="CalculatorGame/SecondView.axaml" value="CalculatorGame/CalculatorGame.csproj" />
+        <entry key="CalculatorGame/TimeItem.axaml" value="CalculatorGame/CalculatorGame.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
